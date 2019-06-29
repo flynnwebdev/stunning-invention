@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+.percentage-stat {
+  width: 20%;
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border: 1px solid grey;
+}
+/*# sourceMappingURL=App.css.map */
